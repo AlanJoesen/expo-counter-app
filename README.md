@@ -1,4 +1,4 @@
-Actividad expo counter app
+Actividad expo counter app (Alan Morales ADSO 26)
 
 Retos cumplidos
 
