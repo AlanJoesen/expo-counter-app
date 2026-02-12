@@ -1,50 +1,23 @@
-# Welcome to your Expo app 👋
+Actividad expo counter app
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Retos cumplidos
 
-## Get started
+   Reto 1 cumplido
+      -Usar la otra pestaña del menú.
+      -Convertirla en una pantalla de información personal del aprendiz (Nombre, Foto,
+      Programa, Mensaje creativo).
 
-1. Install dependencies
+   Reto 2 cumplido
+      -explorar la documentación y cambiar los iconos por otros que representen
+      mejor cada pantalla.
 
-   ```bash
-   npm install
-   ```
+   Ejecucion final cumplido
+      -Presionar +1 -> El contador incrementa.
+      -Mantener presionado +1 -> El contador se resetea a 0 
+      -Presionar Reset -> El contador se resetea a 0.
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   Reto pedagogico final cumplido
+   -Crear un botón -1.
+   -Limitar valores negativos (que no baje de 0).
+   -Cambiar el color del texto según el valor (ej. rojo si es mayor a 20).
+   -Extraer el contador (el número gigante) a un componente independiente.
